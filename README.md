@@ -4,4 +4,4 @@ These are my notes and assignments from the Deeplearning.ai Generative Adversari
 
 Ozan Gokdemir 
 May 2021 
-Chicago
+The University of Chicago
